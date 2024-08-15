@@ -6,4 +6,5 @@ Flask
 requests
 xgboost
 matplotlib
--e .
+dill
+#-e .
